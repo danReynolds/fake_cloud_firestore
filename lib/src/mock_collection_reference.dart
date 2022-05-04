@@ -3,8 +3,8 @@ import 'dart:math';
 
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:cloud_firestore_platform_interface/cloud_firestore_platform_interface.dart';
-import 'package:fake_cloud_firestore/fake_cloud_firestore.dart';
-import 'package:fake_cloud_firestore/src/fake_query_with_parent.dart';
+import 'package:fake_cloud_firestore_with_metadata/fake_cloud_firestore_with_metadata.dart';
+import 'package:fake_cloud_firestore_with_metadata/src/fake_query_with_parent.dart';
 
 import 'converter.dart';
 import 'mock_collection_reference_platform.dart';

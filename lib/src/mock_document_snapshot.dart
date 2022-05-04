@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:fake_cloud_firestore/src/mock_snapshot_metadata.dart';
-import 'package:fake_cloud_firestore/src/util.dart';
+import 'package:fake_cloud_firestore_with_metadata/src/mock_snapshot_metadata.dart';
+import 'package:fake_cloud_firestore_with_metadata/src/util.dart';
 
 // Intentional implementation of DocumentSnapshot.
 // ignore: subtype_of_sealed_class

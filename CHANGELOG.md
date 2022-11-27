@@ -103,7 +103,7 @@ final firestore = MockFirestoreInstance();
 By:
 
 ```dart
-import 'package:fake_cloud_firestore/fake_cloud_firestore.dart';
+import 'package:fake_cloud_firestore_with_metadata/fake_cloud_firestore.dart';
 
 final firestore = FakeFirebaseFirestore();
 ```

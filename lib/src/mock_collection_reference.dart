@@ -2,8 +2,8 @@ import 'dart:async';
 import 'dart:math';
 
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:fake_cloud_firestore/fake_cloud_firestore.dart';
-import 'package:fake_cloud_firestore/src/fake_query_with_parent.dart';
+import 'package:fake_cloud_firestore_with_metadata/fake_cloud_firestore_with_metadata.dart';
+import 'package:fake_cloud_firestore_with_metadata/src/fake_query_with_parent.dart';
 
 import 'converter.dart';
 import 'mock_document_reference.dart';

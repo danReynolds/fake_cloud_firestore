@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:convert' show utf8;
 
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:fake_cloud_firestore/fake_cloud_firestore.dart';
+import 'package:fake_cloud_firestore_with_metadata/fake_cloud_firestore_with_metadata.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_driver/driver_extension.dart';
 import 'package:flutter_test/flutter_test.dart';

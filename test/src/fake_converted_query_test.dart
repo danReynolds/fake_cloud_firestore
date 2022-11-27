@@ -1,4 +1,4 @@
-import 'package:fake_cloud_firestore/fake_cloud_firestore.dart';
+import 'package:fake_cloud_firestore_with_metadata/fake_cloud_firestore_with_metadata.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import '../fake_cloud_firestore_test.dart';

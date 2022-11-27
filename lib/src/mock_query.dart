@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:math';
 
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:fake_cloud_firestore/src/util.dart';
+import 'package:fake_cloud_firestore_with_metadata/src/util.dart';
 import 'package:flutter/services.dart';
 import 'package:quiver/core.dart';
 

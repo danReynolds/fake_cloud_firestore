@@ -15,7 +15,7 @@ behaves the way you expect.
 ### A simple usage example
 
 ```dart
-import 'package:fake_cloud_firestore/fake_cloud_firestore.dart';
+import 'package:fake_cloud_firestore_with_metadata/fake_cloud_firestore.dart';
 
 void main() {
   final instance = FakeFirebaseFirestore();
@@ -44,7 +44,7 @@ See more examples at [fake_cloud_firestore/test/fake_cloud_firestore_test.dart](
 
 ```dart
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:fake_cloud_firestore/fake_cloud_firestore.dart';
+import 'package:fake_cloud_firestore_with_metadata/fake_cloud_firestore.dart';
 import 'package:firestore_example/main.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';

@@ -1,4 +1,4 @@
-name: fake_cloud_firestore
+name: fake_cloud_firestore_with_metadata
 description: Previously known as cloud_firestore_mocks. Fake implementation of Cloud Firestore. Use this package to unit test apps that use Cloud Firestore.
 version: 2.0.1
 homepage: https://www.wafrat.com

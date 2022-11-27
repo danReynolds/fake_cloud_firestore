@@ -13,7 +13,7 @@ dev_dependencies:
   test: any
   flutter_driver:
     sdk: flutter
-  fake_cloud_firestore:
+  fake_cloud_firestore_with_metadata:
     path: ../
 
 flutter:
